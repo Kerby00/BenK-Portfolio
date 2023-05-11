@@ -18,15 +18,11 @@ useLayoutEffect(() => {
   document.body.style.backgroundImage = "url('https://m.media-amazon.com/images/I/91bw0bqmvjL.jpg')";
 })
 
-
-
-
-
 const [intro, setIntro] = useState(true)
 useEffect(() => {
   setTimeout(() => {
     setIntro(false)
-  }, 17000)
+  }, 11600)
 }, [])
  
   return (
