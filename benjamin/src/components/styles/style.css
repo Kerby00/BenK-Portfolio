@@ -128,7 +128,7 @@ border-radius: 30%;
 border-style: solid;
 border-color: black;
 height: 350px;
-width: 350px;
+width:auto;
 float: right;
 box-shadow: -16px -13px 16px 0px rgb(182, 66, 66), 0 17px 10px 0 rgba(0, 0, 0, 2);
 display: flex;
@@ -142,8 +142,8 @@ position: absolute;
     border-color: black;
     float: right;
     box-shadow: 16px 13px 16px 0 rgb(182, 66, 66), 0 17px 10px 0 rgba(0, 0, 0, 2);
-    height: 325px;
-width: 325px;
+    height: 350px;
+width: auto;
 position: absolute;
 }
 
@@ -197,9 +197,38 @@ h4 {
     flex-direction: column;
 }
 
+.form {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
 .educate {
     display: flex;
     flex-direction: column;
-    padding-left: 50px;
+    padding-left: 110px;
+}
+
+.skills {
+    display: flex;
+    flex-direction: row;
+   padding-bottom: 30px;
+}
+
+.gen {
+padding-right: 15px;
+}
+
+.code {
+padding-left: 50px;
+}
+
+.wrap{
+    display: flex;
+flex-direction: row;
 }
 
