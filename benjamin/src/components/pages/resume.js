@@ -4,9 +4,35 @@ const Resume = () => {
     return (
         <div className='d-flex justify-content-center page-pos'>
         <div className='d-inline-flex p-2 pages'>
-       <p className >this is my aboutme</p> 
+        <div className='summary'>
+<h4>Summary</h4>
+<p> I'm a Jr. Developer looking to get into the coding industry. I've just finished up some schooling and looking to leave my current position at 'Toasters'. I'm extremely hard working and adaptable. I'm always looking for ways to learn and do more. My most desired position would be one that allows me strengthen my current skills. Learn new skills, and grow in a company/network. </p>
+        </div>
+        <div className='p-5'>
+        <div className='text-light'>
+            <h4>Work History</h4>
+            <div className='p-2'>
+            <h5>&#9749; Toasters</h5>
+            <p>Deli Assistant || April 2021 - Current</p>
+<h5>&#128181; Kroger</h5>
+<p> E-Commerce || February 2020 - March 2021 </p>
+<h5>&#129386; Subway</h5>
+<p>Assistant Manager || December 2018 - June 2019 </p>
+</div>
+        </div>
+        <div className='educate text-light'>
+<h4>Education</h4>
+<div className='educate'>
+<h5> &#127891; University of Utah: Coding bootcamp Certifaction</h5>
+<h6>Skills:</h6>
+<ul className='text-light'>
+    <li>React</li>
+</ul>
+</div>
+        </div>
+        </div>
        </div>
-    </div>
+       </div>
 )
     
 };

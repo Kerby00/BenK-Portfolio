@@ -24,7 +24,7 @@ const AboutMe = () => {
                 </div>
                 <div>
                     <ul className='hobs'>
-                        <h4>Hobbies:</h4>
+                        <h4>Hobbies</h4>
                         <li>
                         <p>Fishing/Hiking</p>
                         <p>Painting/Illustration</p>
