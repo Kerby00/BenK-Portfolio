@@ -31,7 +31,6 @@ useEffect(() => {
 
       (<div>
       <Header />
-      <AboutMe/>
         <Routes>
           <Route index element={<AboutMe/>} />
           <Route path='Portfolio' element={<Portfolio />} />
