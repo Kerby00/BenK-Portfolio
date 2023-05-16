@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BenK-Portfolio/static/css/main.da46b709.css",
+    "main.js": "/BenK-Portfolio/static/js/main.d8f9a7e1.js",
+    "static/js/787.2b222d77.chunk.js": "/BenK-Portfolio/static/js/787.2b222d77.chunk.js",
+    "static/media/ecommerce.png": "/BenK-Portfolio/static/media/ecommerce.c8a59e6206b2312ba269.png",
+    "static/media/MDGen.png": "/BenK-Portfolio/static/media/MDGen.509f02d49436e45730e7.png",
+    "static/media/tracker.png": "/BenK-Portfolio/static/media/tracker.ae912ad51399ca3ac329.png",
+    "static/media/Note.png": "/BenK-Portfolio/static/media/Note.a251be2d9168d5abc9bb.png",
+    "static/media/rainy.jpg": "/BenK-Portfolio/static/media/rainy.8c7abc57becb528cfd2c.jpg",
+    "static/media/stunna.JPG": "/BenK-Portfolio/static/media/stunna.05e9b75397c835a01ec2.JPG",
+    "static/media/stunna2.jpg": "/BenK-Portfolio/static/media/stunna2.5d678a555f74b2cfaea5.jpg",
+    "static/media/musinion.png": "/BenK-Portfolio/static/media/musinion.ce87298c13bafad9e808.png",
+    "index.html": "/BenK-Portfolio/index.html",
+    "main.da46b709.css.map": "/BenK-Portfolio/static/css/main.da46b709.css.map",
+    "main.d8f9a7e1.js.map": "/BenK-Portfolio/static/js/main.d8f9a7e1.js.map",
+    "787.2b222d77.chunk.js.map": "/BenK-Portfolio/static/js/787.2b222d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da46b709.css",
+    "static/js/main.d8f9a7e1.js"
+  ]
+}
