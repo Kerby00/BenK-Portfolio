@@ -33,7 +33,7 @@ useEffect(() => {
       <Header />
       
         <Routes>
-          <Route index element={<AboutMe />} />
+          <Route path='AboutMe' element={<AboutMe/>} />
           <Route path='Portfolio' element={<Portfolio />} />
           <Route path='Contact' element={<Contact />} />
           <Route path='Resume' element={<Resume />} />
